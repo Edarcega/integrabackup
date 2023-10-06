@@ -1,0 +1,64 @@
+.fonte-titulo {
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #353375;
+}
+
+.fonte-titulo-card {
+    font-family: 'Goudy Bookletter 1911', serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.fonte-titulo-body {
+    font-family: 'Roboto', sans-serif;
+    color: #353375;
+}
+
+.card-img-minhas-info {
+    width: 150px;
+}
+
+/* .card-img-igreja {
+    object-fit: cover;
+    height: 200px;
+
+} */
+
+body {
+    font-size: 120%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    color: #00008b !important;
+    font-weight: bold;
+}
+
+.paragrafo-sm {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 14px;
+}
+
+.paragrafo-lg {
+    font-family: 'Roboto', sans-serif;
+    color: #353375;
+    font-size: 20px;
+}
+
+.background-card {
+    background-color: whitesmoke !important;
+}
+
+.article-card {
+    max-width: 18rem;
+}
+
+.img-cad-dimension {
+    width: 150px;
+    height: 150px;
+}
